@@ -1,3 +1,4 @@
+# From:  https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/5397/vanRyzin_Estimating.pdf
 dat = matrix(
   c(10,15,11,14, rep(NA, times=11),
     11,6,11,8,20,16, rep(NA, times = 9),
